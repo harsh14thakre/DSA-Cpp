@@ -30,3 +30,4 @@ int main(){
 
 // Why minimum value is greater than zero index
 // because it start from one index
+// while loop is written for multiple conditions
