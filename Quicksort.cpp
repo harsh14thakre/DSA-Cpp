@@ -60,3 +60,17 @@ void Quicksort(int arr[], int low, int high){
 
   }
 }
+int main(){
+    int arr[]={6,5,4,3,2,1};
+    int s=sizeof(arr)/sizeof(arr[0]);
+    for (int i = 0; i < s; i++)
+    {
+       cout<<arr[i]<<" ";
+    }
+    Quicksort(arr, 0 ,s-1);
+    cout<<"After sorting\n";
+    for (int i = 0; i < s; i++)
+    {
+       cout<<arr[i]<<" ";
+    }
+}
