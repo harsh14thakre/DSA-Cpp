@@ -8,4 +8,6 @@
 
 // ALL CASES
 // 6. Space Complexity O(n)
-
+// 7. Uses two pointers  
+// 8. Merge sort is not in place
+// 9. Merge sort is used to covert the large problem into subproblem to get the desired result
