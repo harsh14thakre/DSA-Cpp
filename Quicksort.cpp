@@ -68,7 +68,7 @@ int main(){
        cout<<arr[i]<<" ";
     }
     Quicksort(arr, 0 ,s-1);
-    cout<<"After sorting\n";
+     cout<<"After sorting\n";
     for (int i = 0; i < s; i++)
     {
        cout<<arr[i]<<" ";
