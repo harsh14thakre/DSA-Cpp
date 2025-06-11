@@ -1,6 +1,5 @@
 //// ###### INSERTION SORT ########## ////
 // It is Online Algorithm //
-
 #include"iostream"
 using namespace std;
 void Insertion(int arr[], int s){
@@ -26,7 +25,6 @@ int main(){
      cout<<arr[i]<<" ";
    }
   }
-
 
 // Why minimum value is greater than zero index
 // because it start from one index

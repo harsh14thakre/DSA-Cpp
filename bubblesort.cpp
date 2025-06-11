@@ -21,12 +21,6 @@
 //    }
 // }
 
-
-
-
-
-
-
 #include<iostream>
 using namespace std;
 void bubble(int arr[], int s){
