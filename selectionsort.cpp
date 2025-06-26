@@ -41,7 +41,7 @@
 #include<iostream> 
 using namespace std;
 void Selection(int arr[], int s){
-      int c=0;
+      int c=0; 
     for(int i=0;i<s;i++){
           int min=i;
         for(int j=i+1;j<s;j++){
